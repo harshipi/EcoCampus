@@ -1,0 +1,7 @@
+{
+  "name": "Eco Campus",
+  "description": "An AI-powered campus sustainability tracker that gamifies eco-friendly actions using Gemini AI, featuring AR scanning, carbon markets, and dorm competitions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
